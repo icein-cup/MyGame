@@ -1,0 +1,5 @@
+{
+  "name": "MyGame",
+  "description": "Beta version of the generative medieval life-simulation. Features fully animated 32x32 sprites, autonomous NPCs, and LLM-driven planning.",
+  "requestFramePermissions": []
+}
